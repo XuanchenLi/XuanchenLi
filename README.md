@@ -1,5 +1,4 @@
 ### Hi there 👋
-<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 <!--
 **XuanchenLi/XuanchenLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
