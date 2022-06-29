@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 <div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=XuanchenLi" /> </div>
 
 ### Action 🚀
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=XuanchenLi" /> </div>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=XuanchenLi&theme=xcode" /> </div>
