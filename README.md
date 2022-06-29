@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XuanchenLi&show_icons=true&theme=tokyonight "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
