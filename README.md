@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XuanchenLi&show_icons=true&theme=tokyonight "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/XuanchenLi/XuanchenLi/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 <div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=XuanchenLi" /> </div>
+<!-- profile-3d-contrib -->
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanchenLi&langs_count=10)
+
 
 ### Action 🚀
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=XuanchenLi&theme=dark&hide_border=true" /> </div>
