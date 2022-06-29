@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 <!--
 **XuanchenLi/XuanchenLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XuanchenLi&show_icons=true&theme=tokyonight "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=XuanchenLi&theme=xcode" /> </div>
